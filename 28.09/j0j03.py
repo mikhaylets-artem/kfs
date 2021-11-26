@@ -1,0 +1,1 @@
+mashin=['bmw','ded','mercedes']

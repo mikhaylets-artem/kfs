@@ -1,0 +1,13 @@
+name=[]
+name.append('vlad')
+name.append('artem')
+name.append('lena')
+name.append('gulya')
+name.append('misha')
+name.append('kiril')
+name.append('oleg')
+name.append('ivan')
+name.append('krutoi prepod Denis Batkovich')
+name.append('john')
+name.append('renat')
+print(name)
